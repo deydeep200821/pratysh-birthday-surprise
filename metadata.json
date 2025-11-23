@@ -1,0 +1,7 @@
+{
+  "name": "Pratyasha's Birthday Surprise",
+  "description": "A magical, interactive birthday wish website for Pratyasha.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
